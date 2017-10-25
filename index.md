@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my DropBox Page
 
-You can use the [editor on GitHub](https://github.com/benjaminwillett/dropbox/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dropbox is a popular file hosting service. Here's how to use it to host images for your app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Instructions
+1.  Go to your Dropbox Public folder.
+2.  Upload your images into this folder.
+3.  Click on an image and select Copy public link.
+4.  Copy the URL and use it in an image src value.
 
 ### Markdown
 
